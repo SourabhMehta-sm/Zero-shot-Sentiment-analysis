@@ -1,5 +1,6 @@
 # Sentiment-analysis
 *Sentiment analysis on customer review using the zero-shot technique.*
+***
 ## An introduction to Zero shot technique
 The goal of Zero-Shot Learning (ZSL) is to learn intermediate semantic layers and their properties, so that, during inference, a new class of data can be predicted. As an example, a model developed to distinguish between the images of cats and dogs can also identify images of birds. In these instances, the classes covered are known as the “seen” classes, while the unlabeled training instances are called the “unseen” classes.
 
@@ -8,6 +9,9 @@ Seen-class knowledge can be transferred to unseen classes using a high dimension
 Zero-Shot Learning is a subfield of Transfer Learning as zero-shot learning transfers the knowledge obtained from the training instances to testing instance classification.
 
 For a better understand and implementation of ZSL in different scenarios you can read [my article](https://analyticsindiamag.com/how-to-generate-images-from-text-using-dall-e-mini/)
+***
+## Workflow of project
+![image](https://github.com/SourabhMehta-sm/Zero-shot-Sentiment-analysis/blob/main/overflow_senti.png)
 ***
 ## Details about the project
 + A [transformer](https://huggingface.co/docs/transformers/index) created by Hugging face is been used in this project. 
