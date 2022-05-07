@@ -16,4 +16,4 @@ For a better understand and implementation of ZSL in different scenarios you can
 ***
 ### Visualization of sentiments
 ![image](https://user-images.githubusercontent.com/59167392/167255959-3c7fff35-cc39-43db-9603-cc3b76edfbd8.png)
-Out of 3222 unique customers these are theire sentiments 
++ Out of 3222 unique customers these are the total number of sentiments that were bad to good. 
